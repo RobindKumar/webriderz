@@ -1,0 +1,4 @@
+# #!/bin/sh
+# GIT_WORK_TREE=/home/webridug/www git checkout -f
+
+
